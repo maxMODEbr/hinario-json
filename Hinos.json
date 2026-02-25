@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "atualizado": "2026-02-16",
+  "atualizado": "2026-02-25",
   "total": 409,
   "hinos": [
     {
@@ -17,7 +17,9 @@
         "louvor",
         "obras",
         "revelação"
-      ]
+      ],
+      "primeira_estrofe": "justo é o senhor em seus santos caminhos",
+      "coro": ""
     },
     {
       "numero": "002",
@@ -33,7 +35,9 @@
         "santidade",
         "silêncio",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "o senhor está no seu santo templo",
+      "coro": ""
     },
     {
       "numero": "003",
@@ -50,7 +54,9 @@
         "louvor",
         "reverência",
         "trindade"
-      ]
+      ],
+      "primeira_estrofe": "eterno pai teu povo congregado",
+      "coro": ""
     },
     {
       "numero": "004",
@@ -72,7 +78,9 @@
         "sangue",
         "templo",
         "trindade"
-      ]
+      ],
+      "primeira_estrofe": "deus está no templo pai onipotente",
+      "coro": ""
     },
     {
       "numero": "005",
@@ -88,7 +96,9 @@
         "Jesus Cristo",
         "louvor",
         "trindade"
-      ]
+      ],
+      "primeira_estrofe": "glória seja ao pai ao filho e ao santo espírito",
+      "coro": ""
     },
     {
       "numero": "006",
@@ -105,7 +115,9 @@
         "Jesus Cristo",
         "louvor",
         "trindade"
-      ]
+      ],
+      "primeira_estrofe": "a deus supremo benfeitor",
+      "coro": ""
     },
     {
       "numero": "007",
@@ -131,7 +143,9 @@
         "redenção",
         "trindade",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "a ti meu criador",
+      "coro": ""
     },
     {
       "numero": "008",
@@ -153,7 +167,9 @@
         "paz",
         "salvação",
         "trindade"
-      ]
+      ],
+      "primeira_estrofe": "grande deus o teu louvor hoje unidos entoamos",
+      "coro": ""
     },
     {
       "numero": "009",
@@ -173,7 +189,9 @@
         "santificação",
         "trindade",
         "verdade"
-      ]
+      ],
+      "primeira_estrofe": "a ti ó deus altíssimo senhor",
+      "coro": ""
     },
     {
       "numero": "010",
@@ -197,7 +215,9 @@
         "sol",
         "terra",
         "trindade"
-      ]
+      ],
+      "primeira_estrofe": "vós criaturas de deus pai",
+      "coro": ""
     },
     {
       "numero": "011",
@@ -223,7 +243,9 @@
         "terra",
         "trindade",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "santo santo santo deus onipotente",
+      "coro": ""
     },
     {
       "numero": "012",
@@ -240,7 +262,9 @@
         "proclamação",
         "santidade",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "santo santo santo deus dos exércitos",
+      "coro": ""
     },
     {
       "numero": "013",
@@ -266,7 +290,9 @@
         "Sinai",
         "sol",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "se nos cega o sol ardente quando visto em seu fulgor",
+      "coro": ""
     },
     {
       "numero": "014",
@@ -288,7 +314,9 @@
         "salvação",
         "santidade",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "vamos nós louvar a deus vamos vamos",
+      "coro": "exaltado seja nosso deus e pai"
     },
     {
       "numero": "015",
@@ -309,7 +337,9 @@
         "soberania",
         "terra",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "tua ó deus é toda a grandeza",
+      "coro": ""
     },
     {
       "numero": "016",
@@ -326,7 +356,9 @@
         "poder",
         "prosperidade",
         "respeito"
-      ]
+      ],
+      "primeira_estrofe": "louvai a deus soberano senhor do que é feito",
+      "coro": ""
     },
     {
       "numero": "017",
@@ -345,7 +377,9 @@
         "louvor",
         "onipotência",
         "supremacia"
-      ]
+      ],
+      "primeira_estrofe": "seja louvado o deus supremo",
+      "coro": "seja louvado o deus supremo"
     },
     {
       "numero": "018",
@@ -368,7 +402,9 @@
         "sustento",
         "testemunho",
         "universo"
-      ]
+      ],
+      "primeira_estrofe": "deus dos antigos cuja forte mão",
+      "coro": ""
     },
     {
       "numero": "019",
@@ -392,7 +428,9 @@
         "resgate",
         "soberania",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "ó rei sublime em majestade e glória",
+      "coro": "vinde ó remidos filhos de deus"
     },
     {
       "numero": "020",
@@ -415,7 +453,9 @@
         "Reino de Deus",
         "santidade",
         "trindade"
-      ]
+      ],
+      "primeira_estrofe": "a ti ó deus louvamos",
+      "coro": ""
     },
     {
       "numero": "021",
@@ -437,7 +477,9 @@
         "renúncia",
         "soberania",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "ao deus de abraão louvai do vasto céu senhor",
+      "coro": ""
     },
     {
       "numero": "022",
@@ -462,7 +504,9 @@
         "proclamação",
         "resplendor",
         "universo"
-      ]
+      ],
+      "primeira_estrofe": "altamente os céus proclamam seu divino criador",
+      "coro": ""
     },
     {
       "numero": "023",
@@ -481,7 +525,9 @@
         "perdão",
         "redenção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "oh vinde adorar ao deus criador",
+      "coro": ""
     },
     {
       "numero": "024",
@@ -503,7 +549,9 @@
         "louvor",
         "poder",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "vinde irmãos louvar a deus",
+      "coro": "exaltemos o senhor"
     },
     {
       "numero": "025",
@@ -529,7 +577,9 @@
         "tecnologia",
         "universo",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "deus do infinito o criador",
+      "coro": ""
     },
     {
       "numero": "026",
@@ -555,7 +605,9 @@
         "resplendor",
         "sangue",
         "universo"
-      ]
+      ],
+      "primeira_estrofe": "senhor meu deus quando eu maravilhado",
+      "coro": "canta minh’alma então a ti senhor"
     },
     {
       "numero": "027",
@@ -575,7 +627,9 @@
         "pecado",
         "proclamação",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "as grutas as rochas imensas",
+      "coro": "nos céus e no mar e na terra"
     },
     {
       "numero": "028",
@@ -601,7 +655,9 @@
         "obras",
         "revelação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "tuas obras te coroam",
+      "coro": ""
     },
     {
       "numero": "029",
@@ -626,7 +682,9 @@
         "sol",
         "trevas",
         "universo"
-      ]
+      ],
+      "primeira_estrofe": "ó minha alma a deus bendize",
+      "coro": ""
     },
     {
       "numero": "030",
@@ -649,7 +707,9 @@
         "proteção",
         "providência",
         "sabor"
-      ]
+      ],
+      "primeira_estrofe": "ó deus ó providência com teu real poder",
+      "coro": "eterno deus ó deus sem par"
     },
     {
       "numero": "031",
@@ -668,7 +728,9 @@
         "proteção",
         "providência",
         "redenção"
-      ]
+      ],
+      "primeira_estrofe": "ó deus ó providência sem ti não há viver",
+      "coro": "és nosso pai ó deus de amor"
     },
     {
       "numero": "032",
@@ -692,7 +754,9 @@
         "segurança",
         "sustento",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "tu és fiel senhor ó pai celeste",
+      "coro": "tu és fiel senhor tu és fiel senhor"
     },
     {
       "numero": "033",
@@ -715,7 +779,9 @@
         "segurança",
         "terra",
         "tristeza"
-      ]
+      ],
+      "primeira_estrofe": "ao deus de amor e de imensa bondade",
+      "coro": ""
     },
     {
       "numero": "034",
@@ -736,7 +802,9 @@
         "perdição",
         "poder",
         "povo"
-      ]
+      ],
+      "primeira_estrofe": "demos com alegre som",
+      "coro": "sua graça deus nos dá"
     },
     {
       "numero": "035",
@@ -758,7 +826,9 @@
         "pedir",
         "presença de Deus",
         "páscoa"
-      ]
+      ],
+      "primeira_estrofe": "teu culto agora aqui senhor",
+      "coro": ""
     },
     {
       "numero": "036",
@@ -784,7 +854,9 @@
         "terra",
         "testemunho",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "de toda a terra e das nações",
+      "coro": "o dom supremo divinal"
     },
     {
       "numero": "037",
@@ -805,7 +877,9 @@
         "páscoa",
         "santidade",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "jesus teu nome é santo amável teu querer",
+      "coro": ""
     },
     {
       "numero": "038",
@@ -831,7 +905,9 @@
         "salvação",
         "trono",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "mil vezes mil louvores rendamos a jesus",
+      "coro": "mil vezes sim mil vezes sim"
     },
     {
       "numero": "039",
@@ -857,7 +933,9 @@
         "sangue",
         "união",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "oh vinde crentes dar louvor ao grande rei jesus",
+      "coro": "o sangue de jesus me lavou me lavou"
     },
     {
       "numero": "040",
@@ -874,7 +952,9 @@
         "redenção",
         "salvação",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "cantai a cristo o salvador que tanto nos amou",
+      "coro": "salvação salvação alcançou-nos o filho de deus"
     },
     {
       "numero": "041",
@@ -898,7 +978,9 @@
         "redenção",
         "salvação",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "louvai louvai cristo o bom mestre divino",
+      "coro": "louvai louvai e proclamai a grandeza"
     },
     {
       "numero": "042",
@@ -921,7 +1003,9 @@
         "salvação",
         "sangue",
         "santidade"
-      ]
+      ],
+      "primeira_estrofe": "a deus demos glória por seu grande amor",
+      "coro": "exultai exultai vinde todos louvar"
     },
     {
       "numero": "043",
@@ -940,7 +1024,9 @@
         "salvação",
         "sangue",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "desperta já meu coração e louva ao salvador",
+      "coro": "desperta já meu coração e louva ao grande salvador"
     },
     {
       "numero": "044",
@@ -955,7 +1041,9 @@
         "páscoa",
         "redenção",
         "sofrimento"
-      ]
+      ],
+      "primeira_estrofe": "louvemos ao senhor ao pai da eternidade",
+      "coro": ""
     },
     {
       "numero": "045",
@@ -975,7 +1063,9 @@
         "redenção",
         "remissão",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "milhares de milhares ouço",
+      "coro": ""
     },
     {
       "numero": "046",
@@ -1001,7 +1091,9 @@
         "salvação",
         "triunfo",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "altos louvores a quem triunfou",
+      "coro": ""
     },
     {
       "numero": "047",
@@ -1020,7 +1112,9 @@
         "poder",
         "Reino de Deus",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "louvamos-te ó deus pelo dom de jesus",
+      "coro": "aleluia toda a glória te rendemos senhor"
     },
     {
       "numero": "048",
@@ -1040,7 +1134,9 @@
         "salvação",
         "servir",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "jesus quão infinito é teu divino amor",
+      "coro": ""
     },
     {
       "numero": "049",
@@ -1061,7 +1157,9 @@
         "sinceridade",
         "soberania",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "sempre vencendo mui vitorioso",
+      "coro": "não é dos fortes a vitória"
     },
     {
       "numero": "050",
@@ -1084,7 +1182,9 @@
         "salvação",
         "sangue",
         "valor"
-      ]
+      ],
+      "primeira_estrofe": "cantarei a cristo e seu excelso amor",
+      "coro": "o sangue precioso de cristo tem valor"
     },
     {
       "numero": "051",
@@ -1108,7 +1208,9 @@
         "triunfo",
         "universo",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "a cristo adorai cordeiro vencedor",
+      "coro": ""
     },
     {
       "numero": "052",
@@ -1133,7 +1235,9 @@
         "redenção",
         "salvação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "saudai o nome de jesus arcanjos adorai",
+      "coro": ""
     },
     {
       "numero": "053",
@@ -1159,7 +1263,9 @@
         "triunfo",
         "trono",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "honra poder majestade riqueza",
+      "coro": ""
     },
     {
       "numero": "054",
@@ -1184,7 +1290,9 @@
         "salvação",
         "sangue",
         "triunfo"
-      ]
+      ],
+      "primeira_estrofe": "cantai exultai o messias chegou",
+      "coro": "dai louvores celebrai-o foi morto na cruz"
     },
     {
       "numero": "055",
@@ -1208,7 +1316,9 @@
         "louvor",
         "natureza",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "cantai alegremente cantai a deus louvor",
+      "coro": ""
     },
     {
       "numero": "056",
@@ -1230,7 +1340,9 @@
         "roupas",
         "salvação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "graças te rendemos deus de luz e amor",
+      "coro": ""
     },
     {
       "numero": "057",
@@ -1248,7 +1360,9 @@
         "pão",
         "salvação",
         "sustento"
-      ]
+      ],
+      "primeira_estrofe": "a terra semeamos a fim de nos dar pão",
+      "coro": "de todo bem a fonte é o nosso bom senhor"
     },
     {
       "numero": "058",
@@ -1272,7 +1386,9 @@
         "roupas",
         "saúde",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "a minha vida com seus bens provém de ti senhor",
+      "coro": ""
     },
     {
       "numero": "059",
@@ -1293,7 +1409,9 @@
         "pátria",
         "reconhecimento",
         "redenção"
-      ]
+      ],
+      "primeira_estrofe": "ao deus eterno criador mil graças tributemos",
+      "coro": "ao deus eterno criador ao deus da redenção"
     },
     {
       "numero": "060",
@@ -1313,7 +1431,9 @@
         "providência",
         "salvação",
         "sinceridade"
-      ]
+      ],
+      "primeira_estrofe": "em tudo as tuas mãos senhor nos têm enriquecido",
+      "coro": ""
     },
     {
       "numero": "061",
@@ -1337,7 +1457,9 @@
         "perdão",
         "ressurreição",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "graças dou por esta vida pelo bem que revelou",
+      "coro": ""
     },
     {
       "numero": "062",
@@ -1362,7 +1484,9 @@
         "trabalho",
         "vitória",
         "água"
-      ]
+      ],
+      "primeira_estrofe": "graças te dou por tudo que me deste",
+      "coro": "graças graças mil graças"
     },
     {
       "numero": "063",
@@ -1385,7 +1509,9 @@
         "ouro",
         "tesouro",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "se da vida as vagas procelosas são",
+      "coro": "conta as bênçãos dize quantas são"
     },
     {
       "numero": "064",
@@ -1405,7 +1531,9 @@
         "luz",
         "refúgio",
         "resgate"
-      ]
+      ],
+      "primeira_estrofe": "nunca meus lábios cessarão ó cristo",
+      "coro": ""
     },
     {
       "numero": "065",
@@ -1424,7 +1552,9 @@
         "milagre",
         "poder",
         "redenção"
-      ]
+      ],
+      "primeira_estrofe": "dai graças todos vós a deus humildemente",
+      "coro": ""
     },
     {
       "numero": "066",
@@ -1445,7 +1575,9 @@
         "retidão",
         "salvação",
         "santidade"
-      ]
+      ],
+      "primeira_estrofe": "sonda-me ó deus o coração",
+      "coro": ""
     },
     {
       "numero": "067",
@@ -1462,7 +1594,9 @@
         "pecado",
         "purificação",
         "servir"
-      ]
+      ],
+      "primeira_estrofe": "sonda-me ó deus pois vês meu coração",
+      "coro": ""
     },
     {
       "numero": "068",
@@ -1483,7 +1617,9 @@
         "presença de Deus",
         "Reino de Deus",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "eu creio senhor na divina promessa",
+      "coro": ""
     },
     {
       "numero": "069",
@@ -1499,7 +1635,9 @@
         "perdão",
         "redenção",
         "súplica"
-      ]
+      ],
+      "primeira_estrofe": "salvador jesus bendito de minha alma a redenção",
+      "coro": ""
     },
     {
       "numero": "070",
@@ -1520,7 +1658,9 @@
         "perdão",
         "salvação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "todo o meu tão vil pecado lanço ó cristo sobre ti",
+      "coro": ""
     },
     {
       "numero": "071",
@@ -1545,7 +1685,9 @@
         "renovação",
         "salvação",
         "tropeço"
-      ]
+      ],
+      "primeira_estrofe": "se sofrimento te causei ó deus",
+      "coro": ""
     },
     {
       "numero": "072",
@@ -1568,7 +1710,9 @@
         "retidão",
         "sangue",
         "santidade"
-      ]
+      ],
+      "primeira_estrofe": "a minha alma está manchada",
+      "coro": ""
     },
     {
       "numero": "073",
@@ -1585,7 +1729,9 @@
         "perdão",
         "poder",
         "purificação"
-      ]
+      ],
+      "primeira_estrofe": "a ti senhor atrevo-me a chegar",
+      "coro": ""
     },
     {
       "numero": "074",
@@ -1606,7 +1752,9 @@
         "perdão",
         "salvação",
         "sinceridade"
-      ]
+      ],
+      "primeira_estrofe": "jesus senhor me achego a ti",
+      "coro": "eu venho como estou"
     },
     {
       "numero": "075",
@@ -1625,7 +1773,9 @@
         "pecado",
         "súplica",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "abatido em meu pecado clamo a ti ó bom senhor",
+      "coro": ""
     },
     {
       "numero": "076",
@@ -1642,7 +1792,9 @@
         "perdão",
         "purificação",
         "renovação"
-      ]
+      ],
+      "primeira_estrofe": "tem compaixão de mim senhor",
+      "coro": ""
     },
     {
       "numero": "077",
@@ -1658,7 +1810,9 @@
         "perdão",
         "salvação",
         "satisfação"
-      ]
+      ],
+      "primeira_estrofe": "quão abençoado aquele que jesus na cruz salvou",
+      "coro": ""
     },
     {
       "numero": "078",
@@ -1675,7 +1829,9 @@
         "redenção",
         "sacrifício",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "sacrifícios imolados sobre o sanguinoso altar",
+      "coro": ""
     },
     {
       "numero": "079",
@@ -1692,7 +1848,9 @@
         "redenção",
         "resposta",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "chegado à cruz do bom salvador",
+      "coro": "glória ao salvador glória ao salvador"
     },
     {
       "numero": "080",
@@ -1710,7 +1868,9 @@
         "louvor",
         "perdão",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "cantarei o imenso amor do senhor amor sem-fim",
+      "coro": "falarei do grande amor com louvor e gratidão"
     },
     {
       "numero": "081",
@@ -1728,7 +1888,9 @@
         "luz",
         "oração",
         "santidade"
-      ]
+      ],
+      "primeira_estrofe": "espírito de deus convém ao teu auxílio recorrer",
+      "coro": ""
     },
     {
       "numero": "082",
@@ -1744,7 +1906,9 @@
         "paz",
         "poder",
         "santificação"
-      ]
+      ],
+      "primeira_estrofe": "ó divino preceptor já sentimos teu favor",
+      "coro": ""
     },
     {
       "numero": "083",
@@ -1760,7 +1924,9 @@
         "luz",
         "redenção",
         "revelação"
-      ]
+      ],
+      "primeira_estrofe": "ó divinal instruidor que nos mostraste o bom senhor",
+      "coro": ""
     },
     {
       "numero": "084",
@@ -1775,7 +1941,9 @@
         "poder",
         "purificação",
         "santidade"
-      ]
+      ],
+      "primeira_estrofe": "santo espírito de amor cobre-me com teu poder",
+      "coro": "santo espírito de deus dá-me graça em teu poder"
     },
     {
       "numero": "085",
@@ -1791,7 +1959,9 @@
         "purificação",
         "renovação",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "vero consolador espírito de deus",
+      "coro": ""
     },
     {
       "numero": "086",
@@ -1806,7 +1976,9 @@
         "presença de Deus",
         "renovação",
         "transformação"
-      ]
+      ],
+      "primeira_estrofe": "espírito do eterno deus opera em nós",
+      "coro": ""
     },
     {
       "numero": "087",
@@ -1821,7 +1993,9 @@
         "louvor",
         "proteção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "desperta e canta ao grande deus",
+      "coro": "oh que grande amor oh divino amor"
     },
     {
       "numero": "088",
@@ -1844,7 +2018,9 @@
         "redenção",
         "salvação",
         "soberania"
-      ]
+      ],
+      "primeira_estrofe": "amavas-me senhor ainda cintilante",
+      "coro": ""
     },
     {
       "numero": "089",
@@ -1866,7 +2042,9 @@
         "salvação",
         "sofrimento",
         "zombaria"
-      ]
+      ],
+      "primeira_estrofe": "o grande amor que meu jesus",
+      "coro": "quem pode o seu amor contar?"
     },
     {
       "numero": "090",
@@ -1882,7 +2060,9 @@
         "obediência",
         "redenção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "quão insondável é o amor",
+      "coro": ""
     },
     {
       "numero": "091",
@@ -1896,7 +2076,9 @@
         "inspiração",
         "louvor",
         "testemunho"
-      ]
+      ],
+      "primeira_estrofe": "oh viva fé que nossos pais honraram sempre com valor",
+      "coro": "sublime fé clarão de luz inspiração que vem da cruz"
     },
     {
       "numero": "092",
@@ -1915,7 +2097,9 @@
         "poder",
         "profecia",
         "promessa"
-      ]
+      ],
+      "primeira_estrofe": "deus promete grandes coisas conceder",
+      "coro": "tua fé jesus contemplará"
     },
     {
       "numero": "093",
@@ -1932,7 +2116,9 @@
         "sacrifício",
         "salvação",
         "tentação"
-      ]
+      ],
+      "primeira_estrofe": "somente ponho a minha fé na graça excelsa de jesus",
+      "coro": "a minha fé e o meu amor"
     },
     {
       "numero": "094",
@@ -1948,7 +2134,9 @@
         "portas",
         "redenção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "é franca a porta divinal aberta a todo o mundo",
+      "coro": "oh graça imensa pois assim"
     },
     {
       "numero": "095",
@@ -1965,7 +2153,9 @@
         "salvação",
         "sangue",
         "suficiência"
-      ]
+      ],
+      "primeira_estrofe": "somente cristo é salvador assim reconhecemos",
+      "coro": "jesus jesus é o salvador; e não há outro mediador"
     },
     {
       "numero": "096",
@@ -1982,7 +2172,9 @@
         "resgate",
         "ressurreição",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "o peso do pecado jesus a si tomou",
+      "coro": ""
     },
     {
       "numero": "097",
@@ -2004,7 +2196,9 @@
         "resgate",
         "vida",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "meu pecado resgatado foi na cruz por teu amor",
+      "coro": "cristo inflama viva chama em meu peito ó salvador"
     },
     {
       "numero": "098",
@@ -2028,7 +2222,9 @@
         "preço",
         "Tribunal",
         "triunfo"
-      ]
+      ],
+      "primeira_estrofe": "não há condenação assim diz o senhor",
+      "coro": ""
     },
     {
       "numero": "099",
@@ -2051,7 +2247,9 @@
         "redenção",
         "salvação",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "minha alma louva ao redentor",
+      "coro": "sim sobre a cruz em meu lugar"
     },
     {
       "numero": "100",
@@ -2068,7 +2266,9 @@
         "pecado",
         "redenção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "ó minha alma sem demora",
+      "coro": ""
     },
     {
       "numero": "101",
@@ -2083,7 +2283,9 @@
         "redenção",
         "salvação",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "ouvi a doce voz de cristo o redentor",
+      "coro": "fui ao meu senhor que me convidou"
     },
     {
       "numero": "102",
@@ -2104,7 +2306,9 @@
         "salvação",
         "sofrimento",
         "transformação"
-      ]
+      ],
+      "primeira_estrofe": "depois que cristo me salvou",
+      "coro": "oh aleluia sim é céu"
     },
     {
       "numero": "103",
@@ -2119,7 +2323,9 @@
         "paz",
         "pecado",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "jesus agora eu bem sei quão grande é teu amor",
+      "coro": "ó cristo és meu salvador por ti eu tenho paz"
     },
     {
       "numero": "104",
@@ -2143,7 +2349,9 @@
         "resgate",
         "salvação",
         "soberania"
-      ]
+      ],
+      "primeira_estrofe": "mais do que milhares é cristo meu bom mestre",
+      "coro": "cantarei em meu coração esta linda melodia"
     },
     {
       "numero": "105",
@@ -2165,7 +2373,9 @@
         "sofrimento",
         "tempo",
         "tesouro"
-      ]
+      ],
+      "primeira_estrofe": "não sei por que de deus o amor",
+      "coro": "mas eu sei em quem tenho crido"
     },
     {
       "numero": "106",
@@ -2181,7 +2391,9 @@
         "sacrifício",
         "salvação",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "há uma fonte carmesim",
+      "coro": "eu creio sim eu creio"
     },
     {
       "numero": "107",
@@ -2202,7 +2414,9 @@
         "proteção",
         "pátria",
         "vigiar"
-      ]
+      ],
+      "primeira_estrofe": "quero estar ao pé da cruz que tão rica fonte",
+      "coro": "sim na cruz sim na cruz sempre me glorio"
     },
     {
       "numero": "108",
@@ -2223,7 +2437,9 @@
         "salvação",
         "satanás",
         "tentação"
-      ]
+      ],
+      "primeira_estrofe": "se paz a mais doce me deres gozar",
+      "coro": "sou feliz com jesus"
     },
     {
       "numero": "109",
@@ -2248,7 +2464,9 @@
         "perigo",
         "proteção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "quero o salvador comigo ao seu lado sempre andar",
+      "coro": "confiando no senhor protegido em seu amor"
     },
     {
       "numero": "110",
@@ -2272,7 +2490,9 @@
         "trevas",
         "vida",
         "zelo"
-      ]
+      ],
+      "primeira_estrofe": "um dia cristo achou-me mui longe do meu lar",
+      "coro": "a presença de jesus enche o coração de luz"
     },
     {
       "numero": "110A",
@@ -2298,7 +2518,9 @@
         "satisfação",
         "tristeza",
         "vontade"
-      ]
+      ],
+      "primeira_estrofe": "em jesus confiar sua lei observar",
+      "coro": "crer e observar tudo quanto ordenar"
     },
     {
       "numero": "111",
@@ -2317,7 +2539,9 @@
         "satisfação",
         "tentação",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "comigo estás ó deus a noite vem",
+      "coro": ""
     },
     {
       "numero": "112",
@@ -2333,7 +2557,9 @@
         "proteção",
         "provação",
         "segurança"
-      ]
+      ],
+      "primeira_estrofe": "não temas contigo eu sempre estarei",
+      "coro": "comigo estar comigo estar"
     },
     {
       "numero": "113",
@@ -2355,7 +2581,9 @@
         "purificação",
         "salvação",
         "tentação"
-      ]
+      ],
+      "primeira_estrofe": "achei um bom amigo jesus o salvador",
+      "coro": "ele é a luz do mundo a estrela da manhã"
     },
     {
       "numero": "114",
@@ -2375,7 +2603,9 @@
         "promessa",
         "salvação",
         "satisfação"
-      ]
+      ],
+      "primeira_estrofe": "peregrinando por sobre os montes",
+      "coro": "brilho celeste brilho celeste"
     },
     {
       "numero": "115",
@@ -2396,7 +2626,9 @@
         "ressurreição",
         "união",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "com cristo unido na morte da cruz",
+      "coro": "cada momento me guia o senhor"
     },
     {
       "numero": "116",
@@ -2414,7 +2646,9 @@
         "morte",
         "oração",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "mais perto quero estar meu deus de ti",
+      "coro": ""
     },
     {
       "numero": "117",
@@ -2430,7 +2664,9 @@
         "pastor divino",
         "pedir",
         "rebanho"
-      ]
+      ],
+      "primeira_estrofe": "eis-nos ó pastor divino todos juntos num lugar",
+      "coro": ""
     },
     {
       "numero": "118",
@@ -2456,7 +2692,9 @@
         "receio",
         "rocha",
         "ímpio"
-      ]
+      ],
+      "primeira_estrofe": "qual suspira a corça inquieta",
+      "coro": ""
     },
     {
       "numero": "119",
@@ -2482,7 +2720,9 @@
         "santificação",
         "súplica",
         "verdade"
-      ]
+      ],
+      "primeira_estrofe": "fala ó deus agora pela pregação",
+      "coro": ""
     },
     {
       "numero": "120",
@@ -2501,7 +2741,9 @@
         "trevas",
         "união",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "careço de jesus de ti meu salvador",
+      "coro": "de ti senhor careço do teu amparo sempre"
     },
     {
       "numero": "121",
@@ -2524,7 +2766,9 @@
         "pureza",
         "retidão",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "mais pureza dá-me mais horror ao mal",
+      "coro": ""
     },
     {
       "numero": "122",
@@ -2545,7 +2789,9 @@
         "perdão",
         "proteção",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "à minha voz ó deus atende",
+      "coro": ""
     },
     {
       "numero": "123",
@@ -2559,7 +2805,9 @@
         "igreja",
         "louvor",
         "proteção"
-      ]
+      ],
+      "primeira_estrofe": "ó senhor que a tudo excedes dom celeste amor sem-par",
+      "coro": ""
     },
     {
       "numero": "124",
@@ -2581,7 +2829,9 @@
         "proteção",
         "salvação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "benigna luz os passos vacilantes",
+      "coro": ""
     },
     {
       "numero": "125",
@@ -2597,7 +2847,9 @@
         "proteção",
         "pureza",
         "verdade"
-      ]
+      ],
+      "primeira_estrofe": "sempre veraz serei pois me acreditem",
+      "coro": ""
     },
     {
       "numero": "126",
@@ -2612,7 +2864,9 @@
         "proteção",
         "submissão",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "de ti meu bom senhor eu tenho precisão",
+      "coro": ""
     },
     {
       "numero": "127",
@@ -2634,7 +2888,9 @@
         "refúgio",
         "tempo",
         "tentação"
-      ]
+      ],
+      "primeira_estrofe": "bendita hora de oração",
+      "coro": ""
     },
     {
       "numero": "128",
@@ -2658,7 +2914,9 @@
         "preocupação",
         "presença de Deus",
         "tentação"
-      ]
+      ],
+      "primeira_estrofe": "preciosas são as horas na presença de jesus",
+      "coro": ""
     },
     {
       "numero": "129",
@@ -2682,7 +2940,9 @@
         "prazeres",
         "tempestade",
         "vigiar"
-      ]
+      ],
+      "primeira_estrofe": "bem de manhã embora o céu sereno",
+      "coro": "bem de manhã e sem cessar"
     },
     {
       "numero": "130",
@@ -2708,7 +2968,9 @@
         "oração",
         "pecado",
         "perdão"
-      ]
+      ],
+      "primeira_estrofe": "dirijo a ti senhor minha oração",
+      "coro": ""
     },
     {
       "numero": "131",
@@ -2722,7 +2984,9 @@
         "pureza",
         "santidade",
         "utilidade"
-      ]
+      ],
+      "primeira_estrofe": "para seres santo tempo hás de tomar",
+      "coro": ""
     },
     {
       "numero": "132",
@@ -2747,7 +3011,9 @@
         "santificação",
         "tentação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "tu que sobre a amarga cruz revelaste teu amor",
+      "coro": "vem oh vem jesus senhor"
     },
     {
       "numero": "133",
@@ -2762,7 +3028,9 @@
         "pureza",
         "retidão",
         "santidade"
-      ]
+      ],
+      "primeira_estrofe": "puro sim mais puro eu desejo ser",
+      "coro": ""
     },
     {
       "numero": "134",
@@ -2784,7 +3052,9 @@
         "riqueza",
         "sofrimento",
         "tristeza"
-      ]
+      ],
+      "primeira_estrofe": "oh buscai não as riquezas",
+      "coro": ""
     },
     {
       "numero": "135",
@@ -2802,7 +3072,9 @@
         "Jesus Cristo",
         "mansidão",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "mais de cristo eu quero ter seu ensino receber",
+      "coro": "mais mais de cristo mais mais de cristo"
     },
     {
       "numero": "136",
@@ -2824,7 +3096,9 @@
         "salvação",
         "sangue",
         "satisfação"
-      ]
+      ],
+      "primeira_estrofe": "rocha eterna meu jesus quero em ti me refugiar",
+      "coro": ""
     },
     {
       "numero": "137",
@@ -2847,7 +3121,9 @@
         "salvação",
         "tempestade",
         "vigor"
-      ]
+      ],
+      "primeira_estrofe": "rochedo forte é o senhor refúgio na tribulação",
+      "coro": "oh cristo é nosso abrigo no temporal"
     },
     {
       "numero": "138",
@@ -2868,7 +3144,9 @@
         "refúgio",
         "salvação",
         "tempestade"
-      ]
+      ],
+      "primeira_estrofe": "ó bondoso salvador sê tu meu amparador",
+      "coro": ""
     },
     {
       "numero": "139",
@@ -2882,7 +3160,9 @@
         "proteção",
         "segurança",
         "socorro"
-      ]
+      ],
+      "primeira_estrofe": "para altos montes olharei quem me socorrerá?",
+      "coro": ""
     },
     {
       "numero": "140",
@@ -2899,7 +3179,9 @@
         "peregrinação",
         "salvação",
         "solidão"
-      ]
+      ],
+      "primeira_estrofe": "guia ó deus a minha sorte nesta peregrinação",
+      "coro": ""
     },
     {
       "numero": "141",
@@ -2913,7 +3195,9 @@
         "Jesus Cristo",
         "segurança",
         "tempestade"
-      ]
+      ],
+      "primeira_estrofe": "guia cristo minha nau sobre o revoltoso mar",
+      "coro": ""
     },
     {
       "numero": "142",
@@ -2929,7 +3213,9 @@
         "pastor divino",
         "presença de Deus",
         "proteção"
-      ]
+      ],
+      "primeira_estrofe": "fiel e bom pastor é meu senhor jesus",
+      "coro": ""
     },
     {
       "numero": "143",
@@ -2954,7 +3240,9 @@
         "segurança",
         "água",
         "óleo"
-      ]
+      ],
+      "primeira_estrofe": "deus é meu pastor mui terno nada pois me faltará",
+      "coro": ""
     },
     {
       "numero": "144",
@@ -2979,7 +3267,9 @@
         "segurança",
         "submissão",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "que segurança tenho em jesus",
+      "coro": "conto esta história cantando assim"
     },
     {
       "numero": "145",
@@ -2996,7 +3286,9 @@
         "proteção",
         "refúgio",
         "segurança"
-      ]
+      ],
+      "primeira_estrofe": "seguro estou não tenho temor do mal",
+      "coro": "no poder de cristo o mestre"
     },
     {
       "numero": "146",
@@ -3012,7 +3304,9 @@
         "promessa",
         "redenção",
         "segurança"
-      ]
+      ],
+      "primeira_estrofe": "oh quão preciosa e rica promessa",
+      "coro": "oh não temas oh não temas"
     },
     {
       "numero": "147",
@@ -3037,7 +3331,9 @@
         "vaidade",
         "valor",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "quando à alma sequiosa",
+      "coro": "glória glória aleluia"
     },
     {
       "numero": "148",
@@ -3060,7 +3356,9 @@
         "perdão",
         "proteção",
         "providência"
-      ]
+      ],
+      "primeira_estrofe": "finda-se este dia que meu pai me deu",
+      "coro": ""
     },
     {
       "numero": "149",
@@ -3077,7 +3375,9 @@
         "salvação",
         "transformação",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "eu confio em meu jesus e seguro estou",
+      "coro": "cristo me salvou e me transformou"
     },
     {
       "numero": "150",
@@ -3097,7 +3397,9 @@
         "remissão",
         "salvação",
         "segurança"
-      ]
+      ],
+      "primeira_estrofe": "livres do medo já resgatados",
+      "coro": "sim de uma vez amigo acredita"
     },
     {
       "numero": "151",
@@ -3122,7 +3424,9 @@
         "tentação",
         "unção",
         "âncora"
-      ]
+      ],
+      "primeira_estrofe": "pelos bosques e campinas pastoreia o bom jesus",
+      "coro": "sempre amável e clemente vai comigo o bom pastor"
     },
     {
       "numero": "152",
@@ -3141,7 +3445,9 @@
         "poder",
         "salvação",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "tu me sondaste a mim ó deus",
+      "coro": ""
     },
     {
       "numero": "153",
@@ -3158,7 +3464,9 @@
         "proteção",
         "triunfo",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "com tua mão segura bem a minha",
+      "coro": ""
     },
     {
       "numero": "154",
@@ -3179,7 +3487,9 @@
         "segurança",
         "sofrimento",
         "sustento"
-      ]
+      ],
+      "primeira_estrofe": "pelo vale escuro seguirei jesus",
+      "coro": ""
     },
     {
       "numero": "155",
@@ -3202,7 +3512,9 @@
         "sofrimento",
         "triunfo",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "castelo forte é nosso deus espada e bom escudo",
+      "coro": ""
     },
     {
       "numero": "156",
@@ -3223,7 +3535,9 @@
         "proteção",
         "sofrimento",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "descansa ó alma eis o senhor ao lado",
+      "coro": ""
     },
     {
       "numero": "157",
@@ -3245,7 +3559,9 @@
         "salvação",
         "vida",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "por meu delitos expirou jesus a vida e luz",
+      "coro": "faze-me forte em confessar a ti jesus senhor"
     },
     {
       "numero": "158",
@@ -3271,7 +3587,9 @@
         "temor",
         "transformação",
         "tristeza"
-      ]
+      ],
+      "primeira_estrofe": "vai alma tristonha teu pranto depor",
+      "coro": ""
     },
     {
       "numero": "159",
@@ -3297,7 +3615,9 @@
         "sangue",
         "tristeza",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "quão bondoso amigo é cristo revelou-nos seu amor",
+      "coro": ""
     },
     {
       "numero": "160",
@@ -3323,7 +3643,9 @@
         "terra",
         "tesouro",
         "tristeza"
-      ]
+      ],
+      "primeira_estrofe": "nome algum no céu na terra se compara ao de jesus",
+      "coro": ""
     },
     {
       "numero": "161",
@@ -3346,7 +3668,9 @@
         "salvação",
         "tempestade",
         "ânimo"
-      ]
+      ],
+      "primeira_estrofe": "sei que o melhor amigo é cristo",
+      "coro": "jesus é o melhor amigo"
     },
     {
       "numero": "162",
@@ -3372,7 +3696,9 @@
         "solidão",
         "tempestade",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "quando a tempestade ruge",
+      "coro": "eis que ouvimos tua voz a animar os que andam sós"
     },
     {
       "numero": "163",
@@ -3397,7 +3723,9 @@
         "salvação",
         "tristeza",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "as tuas mãos dirigem meu destino",
+      "coro": ""
     },
     {
       "numero": "164",
@@ -3418,7 +3746,9 @@
         "salvação",
         "Segunda Vida de Jesus",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "santo nome incomparável",
+      "coro": "nome bom doce à fé a esperança do porvir"
     },
     {
       "numero": "165",
@@ -3443,7 +3773,9 @@
         "provisão",
         "temor",
         "tentação"
-      ]
+      ],
+      "primeira_estrofe": "não desanimes deus proverá deus velará por ti",
+      "coro": "deus cuidará de ti na tua dor com todo amor"
     },
     {
       "numero": "166",
@@ -3467,7 +3799,9 @@
         "salvação",
         "temor",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "és da minha alma a luz senhor vem dissipar o meu temor",
+      "coro": ""
     },
     {
       "numero": "167",
@@ -3491,7 +3825,9 @@
         "trevas",
         "vida",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "cristo esperança nossa vinde ó salvos proclamar",
+      "coro": ""
     },
     {
       "numero": "168",
@@ -3510,7 +3846,9 @@
         "redenção",
         "salvação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "quão doce fala ao coração do pobre pecador",
+      "coro": ""
     },
     {
       "numero": "169",
@@ -3536,7 +3874,9 @@
         "tristeza",
         "vida",
         "vigiar"
-      ]
+      ],
+      "primeira_estrofe": "no poder do deus bendito vai tudo bem",
+      "coro": ""
     },
     {
       "numero": "170",
@@ -3559,7 +3899,9 @@
         "trevas",
         "vida eterna",
         "água"
-      ]
+      ],
+      "primeira_estrofe": "redentor onipotente poderoso salvador",
+      "coro": ""
     },
     {
       "numero": "171",
@@ -3585,7 +3927,9 @@
         "socorro",
         "traição",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "na forte aflição perigo e dor",
+      "coro": ""
     },
     {
       "numero": "172",
@@ -3604,7 +3948,9 @@
         "gratidão",
         "pecado",
         "promessa"
-      ]
+      ],
+      "primeira_estrofe": "chuvas de bênçãos teremos pelas promessas de deus",
+      "coro": "chuvas de bênçãos chuvas de bênçãos dos céus"
     },
     {
       "numero": "173",
@@ -3621,7 +3967,9 @@
         "pedir",
         "servir",
         "sossegar"
-      ]
+      ],
+      "primeira_estrofe": "vai fugindo o dia breve a noite vem",
+      "coro": ""
     },
     {
       "numero": "174",
@@ -3642,7 +3990,9 @@
         "sangue",
         "segurança",
         "tentação"
-      ]
+      ],
+      "primeira_estrofe": "confio em ti jesus senhor",
+      "coro": ""
     },
     {
       "numero": "175",
@@ -3664,7 +4014,9 @@
         "servir",
         "vitória",
         "ímpio"
-      ]
+      ],
+      "primeira_estrofe": "quão bem-aventurado o servo do senhor",
+      "coro": ""
     },
     {
       "numero": "176",
@@ -3685,7 +4037,9 @@
         "salvação",
         "sofrimento",
         "triunfo"
-      ]
+      ],
+      "primeira_estrofe": "sempre fiéis sim a ti nós seremos",
+      "coro": "sempre fiéis irmãos aqui sejamos"
     },
     {
       "numero": "177",
@@ -3709,7 +4063,9 @@
         "sangue",
         "tempestade",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "firme nas promessas do meu salvador",
+      "coro": "firme firme"
     },
     {
       "numero": "178",
@@ -3732,7 +4088,9 @@
         "vida",
         "vitória",
         "vizinho"
-      ]
+      ],
+      "primeira_estrofe": "qual o adorno desta vida? é o amor é o amor",
+      "coro": ""
     },
     {
       "numero": "179",
@@ -3752,7 +4110,9 @@
         "saudação",
         "tentação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "saudamo-vos irmãos em cristo",
+      "coro": "bem alto agora vamos nós cantar"
     },
     {
       "numero": "180",
@@ -3778,7 +4138,9 @@
         "salvação",
         "união",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "jesus pastor amado louvamos-te hoje aqui",
+      "coro": ""
     },
     {
       "numero": "181",
@@ -3800,7 +4162,9 @@
         "paz",
         "ternura",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "bem-vindos irmãos em jesus a nós bem unidos na paz",
+      "coro": ""
     },
     {
       "numero": "182",
@@ -3815,7 +4179,9 @@
         "louvor",
         "paz",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "que grande bênção é estarem com amor",
+      "coro": ""
     },
     {
       "numero": "183",
@@ -3835,7 +4201,9 @@
         "trono",
         "unidade",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "benditos laços são os do fraterno amor",
+      "coro": ""
     },
     {
       "numero": "184",
@@ -3853,7 +4221,9 @@
         "salvação",
         "testemunho",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "em breve a vida vou findar não mais aqui eu cantarei",
+      "coro": "e face a face vê-lo-ei liberto e salvo cantarei"
     },
     {
       "numero": "185",
@@ -3870,7 +4240,9 @@
         "presença de Deus",
         "redenção",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "no tempo em que meu trabalho acabar",
+      "coro": "sim haverá glória sem-par"
     },
     {
       "numero": "186",
@@ -3893,7 +4265,9 @@
         "presença de Deus",
         "tristeza",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "oh pensai nesse lar lá do céu",
+      "coro": "oh pensai oh pensai"
     },
     {
       "numero": "187",
@@ -3914,7 +4288,9 @@
         "Segunda Vida de Jesus",
         "tristeza",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "tenho lido da bela cidade",
+      "coro": "jamais se contou ao mortal"
     },
     {
       "numero": "188",
@@ -3933,7 +4309,9 @@
         "pecado",
         "redenção",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "quanta dor quanta amargura",
+      "coro": ""
     },
     {
       "numero": "189",
@@ -3954,7 +4332,9 @@
         "peregrinação",
         "resplendor",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "jerusalém celeste de fúlgido esplendor",
+      "coro": ""
     },
     {
       "numero": "190",
@@ -3974,7 +4354,9 @@
         "satisfação",
         "sofrimento",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "se amarga for aqui a vida",
+      "coro": ""
     },
     {
       "numero": "191",
@@ -3993,7 +4375,9 @@
         "paz",
         "vida",
         "água"
-      ]
+      ],
+      "primeira_estrofe": "fonte de amor perene manancial de luz",
+      "coro": ""
     },
     {
       "numero": "192",
@@ -4019,7 +4403,9 @@
         "ternura",
         "trono eterno",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "junto ao trono de deus preparado",
+      "coro": ""
     },
     {
       "numero": "193",
@@ -4041,7 +4427,9 @@
         "terra",
         "tristeza",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "vou à pátria eu peregrino",
+      "coro": "vou à pátria — eu peregrino —"
     },
     {
       "numero": "194",
@@ -4060,7 +4448,9 @@
         "luz",
         "paciência",
         "sofrimento"
-      ]
+      ],
+      "primeira_estrofe": "com jesus há morada feliz",
+      "coro": "com jesus no porvir"
     },
     {
       "numero": "195",
@@ -4082,7 +4472,9 @@
         "salvação",
         "sofrimento",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "dormindo no senhor bendito é nosso irmão",
+      "coro": ""
     },
     {
       "numero": "196",
@@ -4101,7 +4493,9 @@
         "paz",
         "pátria",
         "satisfação"
-      ]
+      ],
+      "primeira_estrofe": "oh quanto gozo esplendores venturas",
+      "coro": ""
     },
     {
       "numero": "197",
@@ -4117,7 +4511,9 @@
         "salvação",
         "sangue",
         "satisfação"
-      ]
+      ],
+      "primeira_estrofe": "jesus quer entrar hoje em teu coração",
+      "coro": "oh quantas vezes jesus te chamou"
     },
     {
       "numero": "198",
@@ -4140,7 +4536,9 @@
         "redenção",
         "salvação",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "eis mensagem do senhor aleluia",
+      "coro": "oh olhai com fé olhai"
     },
     {
       "numero": "199",
@@ -4163,7 +4561,9 @@
         "redenção",
         "salvação",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "cristo salva o pecador dá-lhe um novo coração",
+      "coro": "confiai em seu poder confiai em seu amor"
     },
     {
       "numero": "200",
@@ -4181,7 +4581,9 @@
         "pregação",
         "salvação",
         "satisfação"
-      ]
+      ],
+      "primeira_estrofe": "palavra abençoada convite que contém",
+      "coro": "vinde oh vinde a mim"
     },
     {
       "numero": "201",
@@ -4199,7 +4601,9 @@
         "morte",
         "paciência",
         "tempo"
-      ]
+      ],
+      "primeira_estrofe": "manso e suave eis jesus nos chamando",
+      "coro": "vem já vem já alma cansada vem já"
     },
     {
       "numero": "202",
@@ -4215,7 +4619,9 @@
         "salvação",
         "vida",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "preciosas as palavras de jesus eterno rei",
+      "coro": ""
     },
     {
       "numero": "203",
@@ -4230,7 +4636,9 @@
         "oportunidade",
         "salvação",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "eis cristo te convida vem pecador",
+      "coro": ""
     },
     {
       "numero": "204",
@@ -4254,7 +4662,9 @@
         "portas",
         "tristeza",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "à porta estou ó alma triste",
+      "coro": "à porta por amor levado"
     },
     {
       "numero": "205",
@@ -4272,7 +4682,9 @@
         "salvação",
         "tempo",
         "urgência"
-      ]
+      ],
+      "primeira_estrofe": "não vos demoreis jesus vos chama",
+      "coro": "não vos demoreis"
     },
     {
       "numero": "206",
@@ -4291,7 +4703,9 @@
         "sacrifício",
         "salvação",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "triste estás cansado aflito",
+      "coro": ""
     },
     {
       "numero": "207",
@@ -4306,7 +4720,9 @@
         "perdão",
         "salvação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "vem a cristo mesmo agora vem assim como estás",
+      "coro": ""
     },
     {
       "numero": "208",
@@ -4324,7 +4740,9 @@
         "pureza",
         "salvação",
         "vontade"
-      ]
+      ],
+      "primeira_estrofe": "chegai-vos ao senhor com puro coração",
+      "coro": ""
     },
     {
       "numero": "209",
@@ -4341,7 +4759,9 @@
         "medo",
         "salvação",
         "sol"
-      ]
+      ],
+      "primeira_estrofe": "medo tens que o adversário vá vencer?",
+      "coro": "deixa a luz do céu entrar"
     },
     {
       "numero": "210",
@@ -4355,7 +4775,9 @@
         "perdido",
         "perdão",
         "restauração"
-      ]
+      ],
+      "primeira_estrofe": "vem filho perdido ó pródigo vem",
+      "coro": "vem vem ó pródigo vem"
     },
     {
       "numero": "211",
@@ -4376,7 +4798,9 @@
         "salvação",
         "tempo",
         "urgência"
-      ]
+      ],
+      "primeira_estrofe": "quase induzido a crer em jesus",
+      "coro": ""
     },
     {
       "numero": "212",
@@ -4392,7 +4816,9 @@
         "restauração",
         "salvação",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "alma escuta o bom senhor a jesus o salvador",
+      "coro": ""
     },
     {
       "numero": "213",
@@ -4409,7 +4835,9 @@
         "salvação",
         "urgência",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "ao findar o labor desta vida",
+      "coro": "meu amigo hoje tens a escolha"
     },
     {
       "numero": "214",
@@ -4426,7 +4854,9 @@
         "paz",
         "perdão",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "tuas forças débeis são nada podes merecer",
+      "coro": "a ti senhor jesus venho como estou"
     },
     {
       "numero": "215",
@@ -4444,7 +4874,9 @@
         "pecado",
         "portas",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "jesus estás à porta do aflito coração",
+      "coro": ""
     },
     {
       "numero": "216",
@@ -4458,7 +4890,9 @@
         "perdão",
         "salvação",
         "transformação"
-      ]
+      ],
+      "primeira_estrofe": "acharei mercê em deus? pode ainda perdoar?",
+      "coro": ""
     },
     {
       "numero": "217",
@@ -4471,7 +4905,9 @@
         "pureza",
         "salvação",
         "transformação"
-      ]
+      ],
+      "primeira_estrofe": "tal como estou sem me esquivar",
+      "coro": ""
     },
     {
       "numero": "218",
@@ -4487,7 +4923,9 @@
         "transformação",
         "triunfo",
         "vontade"
-      ]
+      ],
+      "primeira_estrofe": "tua vontade faze ó senhor",
+      "coro": ""
     },
     {
       "numero": "219",
@@ -4504,7 +4942,9 @@
         "Jesus Cristo",
         "salvação",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "sofreste ó meu senhor na amarga cruz",
+      "coro": ""
     },
     {
       "numero": "220",
@@ -4523,7 +4963,9 @@
         "servir",
         "submissão",
         "visão"
-      ]
+      ],
+      "primeira_estrofe": "sobre a cruz jesus comprou-me corpo e alma todo o ser",
+      "coro": "meu senhor meu senhor sempre a ti pertencerei"
     },
     {
       "numero": "221",
@@ -4545,7 +4987,9 @@
         "servir",
         "submissão",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "quero ser um vaso de bênção",
+      "coro": "faze-me vaso de bênção senhor"
     },
     {
       "numero": "222",
@@ -4566,7 +5010,9 @@
         "prazeres",
         "seguir",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "meu senhor sou teu tua voz ouvi",
+      "coro": "mais perto da tua cruz"
     },
     {
       "numero": "223",
@@ -4588,7 +5034,9 @@
         "mudança",
         "salvação",
         "servir"
-      ]
+      ],
+      "primeira_estrofe": "convencido estou ó cristo",
+      "coro": "toma ó salvador minha débil mão"
     },
     {
       "numero": "224",
@@ -4604,7 +5052,9 @@
         "servir",
         "submissão",
         "vontade"
-      ]
+      ],
+      "primeira_estrofe": "a ti seja consagrada minha vida ó meu senhor",
+      "coro": ""
     },
     {
       "numero": "225",
@@ -4630,7 +5080,9 @@
         "sujeição",
         "tropeço",
         "valor"
-      ]
+      ],
+      "primeira_estrofe": "eis-me ó salvador aqui corpo e alma oferto a ti",
+      "coro": ""
     },
     {
       "numero": "226",
@@ -4647,7 +5099,9 @@
         "graça",
         "Jesus Cristo",
         "perdão"
-      ]
+      ],
+      "primeira_estrofe": "conta-me a história de cristo grava-a no meu coração",
+      "coro": ""
     },
     {
       "numero": "227",
@@ -4663,7 +5117,9 @@
         "perdão",
         "redenção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "conta-me a velha história do grande salvador",
+      "coro": "conta-me a velha história que fala ao coração"
     },
     {
       "numero": "228",
@@ -4682,7 +5138,9 @@
         "saudação",
         "sofrimento",
         "ungido"
-      ]
+      ],
+      "primeira_estrofe": "saudai de deus o ungido o filho de davi",
+      "coro": ""
     },
     {
       "numero": "229",
@@ -4705,7 +5163,9 @@
         "paz",
         "satisfação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "eu venho a vós dos altos céus",
+      "coro": ""
     },
     {
       "numero": "230",
@@ -4721,7 +5181,9 @@
         "louvor",
         "Messias",
         "natal"
-      ]
+      ],
+      "primeira_estrofe": "oh vinde fiéis triunfantes e alegres",
+      "coro": "oh vinde adoremos oh vinde adoremos"
     },
     {
       "numero": "231",
@@ -4737,7 +5199,9 @@
         "magos",
         "natal",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "eis que um anjo proclamou o primeiro natal",
+      "coro": "natal natal natal natal"
     },
     {
       "numero": "232",
@@ -4752,7 +5216,9 @@
         "luz",
         "natal",
         "redenção"
-      ]
+      ],
+      "primeira_estrofe": "pequena vila de belém repousa em teu dormir",
+      "coro": ""
     },
     {
       "numero": "233",
@@ -4769,7 +5235,9 @@
         "pastores",
         "presépio",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "no campo o rebanho guardando",
+      "coro": "glória a deus nas alturas"
     },
     {
       "numero": "234",
@@ -4788,7 +5256,9 @@
         "paz",
         "pecado",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "quem é o pequeno a repousar",
+      "coro": "é este jesus o rei que anuncia a paz"
     },
     {
       "numero": "235",
@@ -4805,7 +5275,9 @@
         "luz",
         "mensagem",
         "natal"
-      ]
+      ],
+      "primeira_estrofe": "um anjo formoso desceu das alturas",
+      "coro": ""
     },
     {
       "numero": "236",
@@ -4824,7 +5296,9 @@
         "paz",
         "salvação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "em linda noite ao mundo a nós",
+      "coro": ""
     },
     {
       "numero": "237",
@@ -4840,7 +5314,9 @@
         "mundo",
         "Nascimento",
         "natal"
-      ]
+      ],
+      "primeira_estrofe": "vinde cantai jesus nasceu",
+      "coro": ""
     },
     {
       "numero": "237A",
@@ -4858,7 +5334,9 @@
         "natal",
         "ofertas",
         "orvalho"
-      ]
+      ],
+      "primeira_estrofe": "oh linda estrela fulgor cintilante",
+      "coro": ""
     },
     {
       "numero": "238",
@@ -4877,7 +5355,9 @@
         "oração",
         "paz",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "harmonias pelo ar uma estrela no céu",
+      "coro": ""
     },
     {
       "numero": "239",
@@ -4895,7 +5375,9 @@
         "paz",
         "salvação",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "nasce jesus fonte de luz",
+      "coro": "nasce jesus nasce jesus"
     },
     {
       "numero": "240",
@@ -4915,7 +5397,9 @@
         "povo",
         "redenção",
         "Salmos"
-      ]
+      ],
+      "primeira_estrofe": "eis dos anjos a harmonia",
+      "coro": "exultai ó terra e céus"
     },
     {
       "numero": "241",
@@ -4934,7 +5418,9 @@
         "natal",
         "pastores",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "mal supõe aquela gente que em belém quer ir parar",
+      "coro": "vinde ouvir a doce história que dos altos céus nos vem"
     },
     {
       "numero": "242",
@@ -4949,7 +5435,9 @@
         "natal",
         "Reino de Deus",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "anjos das mansões da glória sobre a terra já voai",
+      "coro": ""
     },
     {
       "numero": "243",
@@ -4969,7 +5457,9 @@
         "paz",
         "presépio",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "noite de paz noite de amor",
+      "coro": ""
     },
     {
       "numero": "244",
@@ -4990,7 +5480,9 @@
         "pastores",
         "rebanho",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "em noite linda e silente",
+      "coro": "que canto angélico é este?"
     },
     {
       "numero": "245",
@@ -5013,7 +5505,9 @@
         "paz",
         "redenção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "vós homens sábios e de bem",
+      "coro": "oh louvai o bom deus com fervor"
     },
     {
       "numero": "246",
@@ -5029,7 +5523,9 @@
         "natal",
         "paz",
         "remissão"
-      ]
+      ],
+      "primeira_estrofe": "jesus o messias desceu lá do céu",
+      "coro": ""
     },
     {
       "numero": "247",
@@ -5047,7 +5543,9 @@
         "ouro",
         "presentes",
         "redenção"
-      ]
+      ],
+      "primeira_estrofe": "uma estrela cintilante de ofuscante e rara luz",
+      "coro": ""
     },
     {
       "numero": "248",
@@ -5063,7 +5561,9 @@
         "pobreza",
         "servir",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "no humilde presépio sem ter nada seu",
+      "coro": ""
     },
     {
       "numero": "249",
@@ -5081,7 +5581,9 @@
         "natal",
         "palha",
         "presépio"
-      ]
+      ],
+      "primeira_estrofe": "num berço de palhas dormia jesus",
+      "coro": ""
     },
     {
       "numero": "250",
@@ -5097,7 +5599,9 @@
         "salvação",
         "sede",
         "água"
-      ]
+      ],
+      "primeira_estrofe": "ouvi o salvador dizer vem descansar em mim",
+      "coro": ""
     },
     {
       "numero": "251",
@@ -5117,7 +5621,9 @@
         "proteção",
         "pão",
         "sustento"
-      ]
+      ],
+      "primeira_estrofe": "ó cristo pão da vida descido lá do céu",
+      "coro": ""
     },
     {
       "numero": "252",
@@ -5137,7 +5643,9 @@
         "sangue",
         "servir",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "pão da vida pão dos céus pão celeste é meu jesus",
+      "coro": ""
     },
     {
       "numero": "253",
@@ -5162,7 +5670,9 @@
         "resplendor",
         "salvação",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "luz do mundo jesus cristo dissipaste as ilusões",
+      "coro": ""
     },
     {
       "numero": "254",
@@ -5178,7 +5688,9 @@
         "proteção",
         "salvação",
         "tempestade"
-      ]
+      ],
+      "primeira_estrofe": "mestre o mar se revolta",
+      "coro": "as ondas atendem ao meu mandar sossegai"
     },
     {
       "numero": "255",
@@ -5193,7 +5705,9 @@
         "redenção",
         "salvação",
         "triunfo"
-      ]
+      ],
+      "primeira_estrofe": "noventa e nove ovelhas vão seguras ao curral",
+      "coro": ""
     },
     {
       "numero": "256",
@@ -5210,7 +5724,9 @@
         "luz",
         "satisfação",
         "visão"
-      ]
+      ],
+      "primeira_estrofe": "visão de glória singular",
+      "coro": ""
     },
     {
       "numero": "257",
@@ -5233,7 +5749,9 @@
         "redenção",
         "salvação",
         "trono"
-      ]
+      ],
+      "primeira_estrofe": "hosana hosana hosana",
+      "coro": ""
     },
     {
       "numero": "258",
@@ -5250,7 +5768,9 @@
         "triunfo",
         "trono",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "caminha em majestade e vai",
+      "coro": ""
     },
     {
       "numero": "259",
@@ -5266,7 +5786,9 @@
         "louvor",
         "salvação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "a ti hosana e glória ó cristo salvador",
+      "coro": ""
     },
     {
       "numero": "260",
@@ -5283,7 +5805,9 @@
         "perdão",
         "páscoa",
         "resgate"
-      ]
+      ],
+      "primeira_estrofe": "amor que por amor desceste",
+      "coro": ""
     },
     {
       "numero": "261",
@@ -5303,7 +5827,9 @@
         "salvação",
         "sangue",
         "sofrimento"
-      ]
+      ],
+      "primeira_estrofe": "mui longe o monte verde está ao norte de sião",
+      "coro": "oh quanto quanto nos amou amemo-lo também"
     },
     {
       "numero": "262",
@@ -5320,7 +5846,9 @@
         "salvação",
         "servir",
         "sofrimento"
-      ]
+      ],
+      "primeira_estrofe": "ao contemplar a tua cruz",
+      "coro": ""
     },
     {
       "numero": "263",
@@ -5339,7 +5867,9 @@
         "mundo",
         "páscoa",
         "transformação"
-      ]
+      ],
+      "primeira_estrofe": "na cruz de jesus cristo meus olhos podem ver",
+      "coro": ""
     },
     {
       "numero": "264",
@@ -5365,7 +5895,9 @@
         "refúgio",
         "sofrimento",
         "ódio"
-      ]
+      ],
+      "primeira_estrofe": "oh fronte ensanguentada em tanto opróbrio e dor",
+      "coro": ""
     },
     {
       "numero": "265",
@@ -5385,7 +5917,9 @@
         "sacrifício",
         "salvação",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "que agonia dolorosa tu sofreste ó meu jesus",
+      "coro": ""
     },
     {
       "numero": "266",
@@ -5411,7 +5945,9 @@
         "santificação",
         "triunfo",
         "vergonha"
-      ]
+      ],
+      "primeira_estrofe": "rude cruz se erigiu dela o dia fugiu",
+      "coro": "sim eu amo a mensagem da cruz"
     },
     {
       "numero": "267",
@@ -5429,7 +5965,9 @@
         "remissão",
         "resgate",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "oh que precioso sangue o senhor verteu",
+      "coro": ""
     },
     {
       "numero": "268",
@@ -5448,7 +5986,9 @@
         "redenção",
         "sangue",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "pendurado no madeiro ó jesus pudeste assim",
+      "coro": "o teu sangue foi vertido expiraste ó meu jesus"
     },
     {
       "numero": "269",
@@ -5469,7 +6009,9 @@
         "páscoa",
         "remissão",
         "sangue"
-      ]
+      ],
+      "primeira_estrofe": "seja bendito o cordeiro",
+      "coro": "alvo mais que a neve"
     },
     {
       "numero": "270",
@@ -5490,7 +6032,9 @@
         "salvação",
         "sangue",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "morri na cruz por ti foi para te livrar",
+      "coro": "morri morri na cruz por ti que fazes tu por mim?"
     },
     {
       "numero": "271",
@@ -5506,7 +6050,9 @@
         "páscoa",
         "ressurreição",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "aleluia aleluia aleluia aleluia",
+      "coro": "aleluia aleluia aleluia aleluia"
     },
     {
       "numero": "272",
@@ -5520,7 +6066,9 @@
         "ressurreição",
         "salvação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "cristo já ressuscitou aleluia",
+      "coro": ""
     },
     {
       "numero": "273",
@@ -5535,7 +6083,9 @@
         "redenção",
         "ressurreição",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "hoje nos lembramos da ressurreição",
+      "coro": ""
     },
     {
       "numero": "274",
@@ -5554,7 +6104,9 @@
         "triunfo",
         "vida",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "eis morto o salvador na sepultura",
+      "coro": "da sepultura saiu"
     },
     {
       "numero": "275",
@@ -5579,7 +6131,9 @@
         "temor",
         "vida",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "cristo venceu liberta está minha alma",
+      "coro": ""
     },
     {
       "numero": "276",
@@ -5605,7 +6159,9 @@
         "trevas",
         "trindade",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "vinde vós fiéis cantai amoravelmente",
+      "coro": ""
     },
     {
       "numero": "277",
@@ -5622,7 +6178,9 @@
         "páscoa",
         "ressurreição",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "cristo vive ressuscitou de entre os mortos (bis)",
+      "coro": ""
     },
     {
       "numero": "278",
@@ -5643,7 +6201,9 @@
         "redenção",
         "salvação",
         "usurpação"
-      ]
+      ],
+      "primeira_estrofe": "aleluia aleluia aleluia",
+      "coro": "aleluia aleluia aleluia"
     },
     {
       "numero": "279",
@@ -5663,7 +6223,9 @@
         "páscoa",
         "ressurreição",
         "triunfo"
-      ]
+      ],
+      "primeira_estrofe": "o dia triunfal raiou",
+      "coro": ""
     },
     {
       "numero": "280",
@@ -5689,7 +6251,9 @@
         "triunfo",
         "vida",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "subiste ao céu triunfador",
+      "coro": ""
     },
     {
       "numero": "281-A",
@@ -5708,7 +6272,9 @@
         "sangue",
         "satisfação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "a fronte que uma vez sangrou agora brilha em luz",
+      "coro": ""
     },
     {
       "numero": "281",
@@ -5731,7 +6297,9 @@
         "triunfo",
         "trono",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "aleluia triunfante para o céu jesus subiu",
+      "coro": ""
     },
     {
       "numero": "282",
@@ -5747,7 +6315,9 @@
         "mundo",
         "redenção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "disse jesus ide por todo mundo",
+      "coro": "vamos irmãos levar essa luz ao mundo inteiro"
     },
     {
       "numero": "283",
@@ -5763,7 +6333,9 @@
         "missão",
         "nações",
         "redenção"
-      ]
+      ],
+      "primeira_estrofe": "avançai avançai derramai essa luz",
+      "coro": ""
     },
     {
       "numero": "284",
@@ -5780,7 +6352,9 @@
         "salvação",
         "trabalho",
         "vontade"
-      ]
+      ],
+      "primeira_estrofe": "nem sempre será para onde eu quiser",
+      "coro": "estou pronto a fazer o que queres senhor"
     },
     {
       "numero": "285",
@@ -5804,7 +6378,9 @@
         "salvação",
         "sangue",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "do vasto mato grosso até ao ceará",
+      "coro": ""
     },
     {
       "numero": "286",
@@ -5819,7 +6395,9 @@
         "salvação",
         "trabalho",
         "urgência"
-      ]
+      ],
+      "primeira_estrofe": "ceifeiros somos nós fiéis",
+      "coro": "vamos nós obedecer vamos à colheita"
     },
     {
       "numero": "287",
@@ -5837,7 +6415,9 @@
         "salvação",
         "Segunda Vida de Jesus",
         "vigiar"
-      ]
+      ],
+      "primeira_estrofe": "é tempo é tempo o mestre está chamando já",
+      "coro": "marchar sim avante"
     },
     {
       "numero": "288",
@@ -5853,7 +6433,9 @@
         "reconciliação",
         "redenção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "sou forasteiro aqui em terra estranha estou",
+      "coro": "é a mensagem que me deu"
     },
     {
       "numero": "289",
@@ -5870,7 +6452,9 @@
         "salvação",
         "trevas",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "eis os milhões que em trevas tão medonhas",
+      "coro": "todo o poder o pai me deu"
     },
     {
       "numero": "290",
@@ -5891,7 +6475,9 @@
         "salvação",
         "Segunda Vida de Jesus",
         "transformação"
-      ]
+      ],
+      "primeira_estrofe": "jesus já vem o grande salvador",
+      "coro": ""
     },
     {
       "numero": "291",
@@ -5913,7 +6499,9 @@
         "sofrimento",
         "triunfo",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "entre nuvens multicores com os santos vem do céu",
+      "coro": ""
     },
     {
       "numero": "292",
@@ -5931,7 +6519,9 @@
         "Segunda Vida de Jesus",
         "trombetas",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "como foi para o céu jesus cristo há de vir",
+      "coro": "oh que dia glorioso esse dia há de ser"
     },
     {
       "numero": "293",
@@ -5956,7 +6546,9 @@
         "remissão",
         "Segunda Vida de Jesus",
         "triunfo"
-      ]
+      ],
+      "primeira_estrofe": "vinde ó cristãos regozijai-vos o senhor não tardará",
+      "coro": "oh dia triunfal de cristo quando lá do céu descer"
     },
     {
       "numero": "294",
@@ -5976,7 +6568,9 @@
         "Segunda Vida de Jesus",
         "submissão",
         "verdade"
-      ]
+      ],
+      "primeira_estrofe": "breve o senhor em esplendor aqui há de descer",
+      "coro": ""
     },
     {
       "numero": "295",
@@ -5998,7 +6592,9 @@
         "Segunda Vida de Jesus",
         "sepultura",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "sobre nuvem fulgurante vem do céu o salvador",
+      "coro": ""
     },
     {
       "numero": "296",
@@ -6021,7 +6617,9 @@
         "ressurreição",
         "Segunda Vida de Jesus",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "cristo em breve do céu virá",
+      "coro": "cristo não tarda não tarda em vir"
     },
     {
       "numero": "297",
@@ -6040,7 +6638,9 @@
         "salvação",
         "transformação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "quando lá do céu descendo para os seus jesus voltar",
+      "coro": "quando enfim chegar o dia"
     },
     {
       "numero": "298",
@@ -6055,7 +6655,9 @@
         "Jesus Cristo",
         "rocha",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "da igreja o fundamento é cristo o salvador",
+      "coro": ""
     },
     {
       "numero": "299",
@@ -6070,7 +6672,9 @@
         "renovação",
         "salvação",
         "vigor"
-      ]
+      ],
+      "primeira_estrofe": "fortalece a tua igreja ó bendito salvador",
+      "coro": ""
     },
     {
       "numero": "300",
@@ -6093,7 +6697,9 @@
         "servir",
         "sofrimento",
         "terra"
-      ]
+      ],
+      "primeira_estrofe": "para resgatar a igreja grande preço cristo deu",
+      "coro": "grande foi o teu amor que na cruz assim mostraste"
     },
     {
       "numero": "301",
@@ -6112,7 +6718,9 @@
         "redenção",
         "renascer",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "igreja do senhor proclama com fervor",
+      "coro": ""
     },
     {
       "numero": "302",
@@ -6131,7 +6739,9 @@
         "pecado",
         "poder",
         "servir"
-      ]
+      ],
+      "primeira_estrofe": "povoam as cidades inquietas multidões",
+      "coro": ""
     },
     {
       "numero": "303",
@@ -6154,7 +6764,9 @@
         "temor",
         "valor",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "um pendão real vos entregou o rei",
+      "coro": "com valor sem temor"
     },
     {
       "numero": "304",
@@ -6173,7 +6785,9 @@
         "perdão",
         "salvação",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "a voz do evangelho já se fez ouvir aqui",
+      "coro": "santa paz e perdão é a nova lá dos céus"
     },
     {
       "numero": "305",
@@ -6190,7 +6804,9 @@
         "mundo",
         "pecado",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "quem ouvir as novas deve proclamar",
+      "coro": "todo o que quiser todo o que quiser"
     },
     {
       "numero": "306",
@@ -6207,7 +6823,9 @@
         "fé",
         "luta",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "erguei-vos cristãos cristo quer-vos de pé",
+      "coro": "sede fiéis sede fiéis"
     },
     {
       "numero": "307",
@@ -6225,7 +6843,9 @@
         "luta",
         "salvação",
         "servir"
-      ]
+      ],
+      "primeira_estrofe": "erga-se o estandarte tremulando à luz",
+      "coro": "erga-se o estandarte tremulando à luz"
     },
     {
       "numero": "308",
@@ -6241,7 +6861,9 @@
         "perdição",
         "perigo",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "nas tormentas desta vida perto está a perdição",
+      "coro": "resplandeçam nossas luzes através do escuro mar"
     },
     {
       "numero": "309",
@@ -6260,7 +6882,9 @@
         "ressurreição",
         "salvação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "proclamai que jesus cristo é senhor e rei",
+      "coro": "proclamai que jesus cristo é senhor e rei"
     },
     {
       "numero": "310",
@@ -6276,7 +6900,9 @@
         "perdido",
         "proclamação",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "de deus ó eterna igreja que espalhas santa luz",
+      "coro": ""
     },
     {
       "numero": "311",
@@ -6300,7 +6926,9 @@
         "triunfo",
         "vigiar",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "avante avante ó crentes soldados de jesus",
+      "coro": ""
     },
     {
       "numero": "312",
@@ -6316,7 +6944,9 @@
         "salvação",
         "servir",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "há trabalho certo para ti cristão",
+      "coro": "por jesus é trabalhar"
     },
     {
       "numero": "313",
@@ -6337,7 +6967,9 @@
         "redenção",
         "sangue",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "quem de cristo ao lado agora quer andar?",
+      "coro": "quem de cristo ao lado sempre quer andar?"
     },
     {
       "numero": "314",
@@ -6351,7 +6983,9 @@
         "salvação",
         "sofrimento",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "ouve a voz divina clama",
+      "coro": ""
     },
     {
       "numero": "315",
@@ -6368,7 +7002,9 @@
         "salvação",
         "servir",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "vamos nós trabalhar somos servos de deus",
+      "coro": "no labor sem cessar"
     },
     {
       "numero": "316",
@@ -6386,7 +7022,9 @@
         "salvação",
         "Sementes",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "os seus intentos cumpre deus",
+      "coro": ""
     },
     {
       "numero": "317",
@@ -6405,7 +7043,9 @@
         "perigo",
         "testemunho",
         "verdade"
-      ]
+      ],
+      "primeira_estrofe": "eia crentes destemidos da verdade convencidos",
+      "coro": ""
     },
     {
       "numero": "318",
@@ -6429,7 +7069,9 @@
         "vigor",
         "vitória",
         "ânimo"
-      ]
+      ],
+      "primeira_estrofe": "ceifeiros da seara santa quão poucos fracos sois",
+      "coro": "os que esperam no senhor renovar-se-ão"
     },
     {
       "numero": "319",
@@ -6454,7 +7096,9 @@
         "trabalho",
         "vitória",
         "zelo"
-      ]
+      ],
+      "primeira_estrofe": "eis marchamos para aquele bom país",
+      "coro": "acordai acordai despertai despertai"
     },
     {
       "numero": "320",
@@ -6472,7 +7116,9 @@
         "luz",
         "mensagem",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "não somente ao se fazer trabalho singular",
+      "coro": "brilha no meio do teu viver"
     },
     {
       "numero": "321",
@@ -6487,7 +7133,9 @@
         "servir",
         "tempo",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "mãos ao trabalho jovens vai já passando o alvor",
+      "coro": ""
     },
     {
       "numero": "322",
@@ -6507,7 +7155,9 @@
         "mulher",
         "servir",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "avante companheiras na causa de jesus",
+      "coro": ""
     },
     {
       "numero": "323",
@@ -6527,7 +7177,9 @@
         "mulher",
         "oposição",
         "problemas"
-      ]
+      ],
+      "primeira_estrofe": "nesta arena da santa peleja",
+      "coro": "vamos vamos leais companheiras"
     },
     {
       "numero": "324",
@@ -6547,7 +7199,9 @@
         "mulher",
         "trabalho",
         "unidade"
-      ]
+      ],
+      "primeira_estrofe": "sempre unidas companheiras",
+      "coro": "vamos todas vamos todas"
     },
     {
       "numero": "325",
@@ -6564,7 +7218,9 @@
         "luz",
         "mulher",
         "tentação"
-      ]
+      ],
+      "primeira_estrofe": "a nós aqui reunidas senhor envia luz",
+      "coro": "nós crentes redimidas depomos nosso lar"
     },
     {
       "numero": "325A",
@@ -6580,7 +7236,9 @@
         "testemunho",
         "unidade",
         "valor"
-      ]
+      ],
+      "primeira_estrofe": "todas unidas com santo ardor",
+      "coro": "sim jesus cristo é o senhor"
     },
     {
       "numero": "326",
@@ -6602,7 +7260,9 @@
         "proclamação",
         "sangue",
         "testemunho"
-      ]
+      ],
+      "primeira_estrofe": "homens presbiterianos do brasil",
+      "coro": "sim lutemos por cristo jesus"
     },
     {
       "numero": "327",
@@ -6626,7 +7286,9 @@
         "poder",
         "sustento",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "aqui reunidos queremos ó deus",
+      "coro": ""
     },
     {
       "numero": "328",
@@ -6640,7 +7302,9 @@
         "Reino de Deus",
         "servir",
         "unidade"
-      ]
+      ],
+      "primeira_estrofe": "deus do universo de leis imutáveis",
+      "coro": ""
     },
     {
       "numero": "329",
@@ -6657,7 +7321,9 @@
         "pastorado",
         "sabedoria",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "senhor da igreja atende a nossa petição",
+      "coro": ""
     },
     {
       "numero": "330",
@@ -6675,7 +7341,9 @@
         "pecado",
         "renúncia",
         "santidade"
-      ]
+      ],
+      "primeira_estrofe": "ó jesus eu te confesso para sempre és meu senhor",
+      "coro": ""
     },
     {
       "numero": "331",
@@ -6692,7 +7360,9 @@
         "proteção",
         "salvação",
         "tentação"
-      ]
+      ],
+      "primeira_estrofe": "confirma ó salvador a decisão feliz",
+      "coro": ""
     },
     {
       "numero": "332",
@@ -6712,7 +7382,9 @@
         "pertencimento",
         "proteção",
         "tradições"
-      ]
+      ],
+      "primeira_estrofe": "nossos filhos te pertencem ó eterno deus de amor",
+      "coro": ""
     },
     {
       "numero": "333",
@@ -6731,7 +7403,9 @@
         "renovação",
         "selo",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "nós senhor nos alegramos ao teu mando obedecer",
+      "coro": ""
     },
     {
       "numero": "334",
@@ -6754,7 +7428,9 @@
         "sangue",
         "surdez",
         "visão"
-      ]
+      ],
+      "primeira_estrofe": "em cegueira eu andei e perdido vaguei",
+      "coro": "foi na cruz foi na cruz que um dia eu vi"
     },
     {
       "numero": "335",
@@ -6772,7 +7448,9 @@
         "reconciliação",
         "redenção",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "oh que belos hinos cantam lá no céu",
+      "coro": "glória glória os anjos cantam lá"
     },
     {
       "numero": "336",
@@ -6795,7 +7473,9 @@
         "testemunho",
         "transformação",
         "vigor"
-      ]
+      ],
+      "primeira_estrofe": "eu perdido pecador longe do meu jesus",
+      "coro": "cristo me amou e me livrou"
     },
     {
       "numero": "337",
@@ -6812,7 +7492,9 @@
         "fé",
         "igreja",
         "proteção"
-      ]
+      ],
+      "primeira_estrofe": "o céu festeja a conversão de mais um pecador",
+      "coro": ""
     },
     {
       "numero": "338",
@@ -6831,7 +7513,9 @@
         "memória",
         "salvação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "salve dia de festa e canto",
+      "coro": ""
     },
     {
       "numero": "339",
@@ -6845,7 +7529,9 @@
         "perdão",
         "salvação",
         "satisfação"
-      ]
+      ],
+      "primeira_estrofe": "oh dia alegre em que aceitei",
+      "coro": "oh feliz bem feliz o dia em que me converti"
     },
     {
       "numero": "340",
@@ -6866,7 +7552,9 @@
         "páscoa",
         "Santa Ceia",
         "Segunda Vida de Jesus"
-      ]
+      ],
+      "primeira_estrofe": "disposta a mesa ó salvador estás presente aqui",
+      "coro": ""
     },
     {
       "numero": "341",
@@ -6882,7 +7570,9 @@
         "Jesus Cristo",
         "páscoa",
         "Santa Ceia"
-      ]
+      ],
+      "primeira_estrofe": "ó jesus ó vera páscoa suspirada dos antigos",
+      "coro": ""
     },
     {
       "numero": "342",
@@ -6902,7 +7592,9 @@
         "redenção",
         "sacrifício",
         "Santa Ceia"
-      ]
+      ],
+      "primeira_estrofe": "atendendo ao que mandaste relembramos ó jesus",
+      "coro": ""
     },
     {
       "numero": "343",
@@ -6922,7 +7614,9 @@
         "salvação",
         "sangue",
         "Santa Ceia"
-      ]
+      ],
+      "primeira_estrofe": "levado pelo imenso amor que tu me tens senhor",
+      "coro": ""
     },
     {
       "numero": "344",
@@ -6944,7 +7638,9 @@
         "sangue",
         "Santa Ceia",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "eis-me aqui senhor bondoso tua ceia a celebrar",
+      "coro": ""
     },
     {
       "numero": "345",
@@ -6963,7 +7659,9 @@
         "pão",
         "Santa Ceia",
         "vinho"
-      ]
+      ],
+      "primeira_estrofe": "ó pão só por amor partido ó vinho dado por amor",
+      "coro": ""
     },
     {
       "numero": "346",
@@ -6983,7 +7681,9 @@
         "salvação",
         "sangue",
         "Santa Ceia"
-      ]
+      ],
+      "primeira_estrofe": "não nas mãos mas em minha alma",
+      "coro": ""
     },
     {
       "numero": "347",
@@ -7003,7 +7703,9 @@
         "redenção",
         "remissão",
         "ressurreição"
-      ]
+      ],
+      "primeira_estrofe": "ó crentes cantai entoando o louvor",
+      "coro": ""
     },
     {
       "numero": "348",
@@ -7019,7 +7721,9 @@
         "Jesus Cristo",
         "louvor",
         "ressurreição"
-      ]
+      ],
+      "primeira_estrofe": "é este o dia que o bom deus criou com sua mão",
+      "coro": ""
     },
     {
       "numero": "349",
@@ -7036,7 +7740,9 @@
         "perdão",
         "pregação",
         "presença de Deus"
-      ]
+      ],
+      "primeira_estrofe": "hoje é o dia do senhor entoai o seu louvor",
+      "coro": ""
     },
     {
       "numero": "350",
@@ -7055,7 +7761,9 @@
         "luz",
         "vida",
         "vida eterna"
-      ]
+      ],
+      "primeira_estrofe": "fonte da celeste vida manifesta o teu poder",
+      "coro": ""
     },
     {
       "numero": "351",
@@ -7072,7 +7780,9 @@
         "purificação",
         "salvação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "quero ouvi-las mais outra vez belas palavras de vida",
+      "coro": "que alegres são que alegres são"
     },
     {
       "numero": "352",
@@ -7089,7 +7799,9 @@
         "meditação",
         "pão",
         "satisfação"
-      ]
+      ],
+      "primeira_estrofe": "enquanto ó salvador teu livro ler",
+      "coro": ""
     },
     {
       "numero": "353",
@@ -7114,7 +7826,9 @@
         "valor",
         "vigor",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "findo o tempo dos estudos eis-nos grande instruidor",
+      "coro": ""
     },
     {
       "numero": "354",
@@ -7131,7 +7845,9 @@
         "presença de Deus",
         "transformação",
         "verdade"
-      ]
+      ],
+      "primeira_estrofe": "dominical é a grande e antiga escola",
+      "coro": "à escola pois dominical irmãos"
     },
     {
       "numero": "354-A",
@@ -7154,7 +7870,9 @@
         "verdade",
         "vida",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "vamos todos à escola sagrada",
+      "coro": "trabalhemos pela escola"
     },
     {
       "numero": "355",
@@ -7176,7 +7894,9 @@
         "verdade",
         "vida",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "amigo dos meninos benigno salvador",
+      "coro": ""
     },
     {
       "numero": "356",
@@ -7196,7 +7916,9 @@
         "luz",
         "modelo",
         "obediência"
-      ]
+      ],
+      "primeira_estrofe": "foi também jesus um dia como eu pequeno assim",
+      "coro": ""
     },
     {
       "numero": "357",
@@ -7216,7 +7938,9 @@
         "rebanho",
         "resgate",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "filhos de jerusalém davam a jesus louvor",
+      "coro": "ouve ouve ouve os meninos dão louvor"
     },
     {
       "numero": "358",
@@ -7233,7 +7957,9 @@
         "louvor",
         "pecado",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "congregação",
+      "coro": ""
     },
     {
       "numero": "359",
@@ -7253,7 +7979,9 @@
         "fragilidade",
         "Jesus Cristo",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "sei que cristo me quer bem pois a bíblia assim o diz",
+      "coro": "sei que me quer bem quer ver-me feliz"
     },
     {
       "numero": "360",
@@ -7273,7 +8001,9 @@
         "pais",
         "salvação",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "no mundo pequenina luz de deus eu quero ser",
+      "coro": ""
     },
     {
       "numero": "361",
@@ -7290,7 +8020,9 @@
         "servir",
         "testemunho",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "manda-nos luzir o senhor jesus",
+      "coro": ""
     },
     {
       "numero": "362",
@@ -7309,7 +8041,9 @@
         "pecado",
         "testemunho",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "vejo no céu esplendente do sol a clara luz",
+      "coro": "brilhando brilhando"
     },
     {
       "numero": "363",
@@ -7330,7 +8064,9 @@
         "sacrifício",
         "salvação",
         "servir"
-      ]
+      ],
+      "primeira_estrofe": "venham venham as crianças",
+      "coro": ""
     },
     {
       "numero": "364",
@@ -7350,7 +8086,9 @@
         "proteção",
         "provisão",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "de manhã deixando o leito",
+      "coro": ""
     },
     {
       "numero": "365",
@@ -7367,7 +8105,9 @@
         "Messias",
         "pais",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "oh vinde crianças",
+      "coro": ""
     },
     {
       "numero": "366",
@@ -7382,7 +8122,9 @@
         "glória",
         "Jesus Cristo",
         "tesouro"
-      ]
+      ],
+      "primeira_estrofe": "quando ó cristo aqui vieres as jóias buscar",
+      "coro": "como a bela estrela da alva desejo brilhar"
     },
     {
       "numero": "367",
@@ -7399,7 +8141,9 @@
         "glória",
         "Jesus Cristo",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "vinde meninos vinde a jesus",
+      "coro": "que alegria sem pecado ou mal"
     },
     {
       "numero": "368",
@@ -7421,7 +8165,9 @@
         "proteção",
         "servir",
         "trabalho"
-      ]
+      ],
+      "primeira_estrofe": "deus vos guarde pelo seu poder",
+      "coro": "pelo seu poder e no seu amor"
     },
     {
       "numero": "369",
@@ -7442,7 +8188,9 @@
         "Sementes",
         "testemunho",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "eis a bíblia a palavra que de deus provém",
+      "coro": "anunciai a bíblia aos povos"
     },
     {
       "numero": "370",
@@ -7457,7 +8205,9 @@
         "lei",
         "proclamação",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "a lei de deus aos homens vamos dar",
+      "coro": ""
     },
     {
       "numero": "371",
@@ -7475,7 +8225,9 @@
         "perdição",
         "salvação",
         "Verbo"
-      ]
+      ],
+      "primeira_estrofe": "da bíblia a luz celeste lampeje aqui senhor",
+      "coro": ""
     },
     {
       "numero": "372",
@@ -7492,7 +8244,9 @@
         "salvação",
         "tesouro",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "não abandono a bíblia pois é a voz de deus",
+      "coro": "não abandono a bíblia"
     },
     {
       "numero": "373",
@@ -7505,7 +8259,9 @@
         "fé",
         "Jesus Cristo",
         "renovação"
-      ]
+      ],
+      "primeira_estrofe": "rompe a aurora vai-se embora mais um ano e outro vem",
+      "coro": "ano findo nunca mais veremos"
     },
     {
       "numero": "374",
@@ -7520,7 +8276,9 @@
         "dons",
         "graça",
         "testemunho"
-      ]
+      ],
+      "primeira_estrofe": "ano velho já findado foste o dom do criador",
+      "coro": ""
     },
     {
       "numero": "375",
@@ -7541,7 +8299,9 @@
         "pecado",
         "povo",
         "proteção"
-      ]
+      ],
+      "primeira_estrofe": "o ano velho já termina",
+      "coro": ""
     },
     {
       "numero": "376",
@@ -7558,7 +8318,9 @@
         "rebelião",
         "salvação",
         "sustento"
-      ]
+      ],
+      "primeira_estrofe": "divino salvador contempla com favor nosso país",
+      "coro": ""
     },
     {
       "numero": "377",
@@ -7576,7 +8338,9 @@
         "pecado",
         "vitória",
         "voz"
-      ]
+      ],
+      "primeira_estrofe": "uma voz nos primórdios da história",
+      "coro": "eia crentes com santa ousadia"
     },
     {
       "numero": "378",
@@ -7594,7 +8358,9 @@
         "oração",
         "pátria",
         "salvação"
-      ]
+      ],
+      "primeira_estrofe": "por nossa pátria oramos a ti supremo deus",
+      "coro": ""
     },
     {
       "numero": "379",
@@ -7610,7 +8376,9 @@
         "pátria",
         "salvação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "minha pátria para cristo eis a minha petição",
+      "coro": "salve deus a minha pátria minha pátria varonil"
     },
     {
       "numero": "380",
@@ -7636,7 +8404,9 @@
         "pátria",
         "verdade",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "oh minha pátria amada brasil dos sonhos meus",
+      "coro": ""
     },
     {
       "numero": "381",
@@ -7657,7 +8427,9 @@
         "pão",
         "sociedade",
         "trabalhadores"
-      ]
+      ],
+      "primeira_estrofe": "a cidade ó deus protege cada rua cada lar",
+      "coro": ""
     },
     {
       "numero": "382",
@@ -7677,7 +8449,9 @@
         "solução",
         "testemunho",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "somos jovens num mundo velho",
+      "coro": "mocidade presbiteriana somos testemunhas de jesus"
     },
     {
       "numero": "383",
@@ -7700,7 +8474,9 @@
         "terra",
         "trevas",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "jovens fortes chama-nos jesus",
+      "coro": "levantemos sobre a terra nossos braços libertados"
     },
     {
       "numero": "384",
@@ -7719,7 +8495,9 @@
         "juventude",
         "valor",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "ó jovens atendei oh que lindo pavilhão",
+      "coro": "vamos com jesus e marchemos sem temor"
     },
     {
       "numero": "385",
@@ -7744,7 +8522,9 @@
         "verdade",
         "vida",
         "vigiar"
-      ]
+      ],
+      "primeira_estrofe": "toda a luz que a razão irradia",
+      "coro": ""
     },
     {
       "numero": "386",
@@ -7769,7 +8549,9 @@
         "testemunho",
         "vergonha",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "direi ao mundo que sou crente",
+      "coro": ""
     },
     {
       "numero": "387",
@@ -7788,7 +8570,9 @@
         "maldade",
         "prontidão",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "moços declarai guerra contra o mal",
+      "coro": "todos juntos ao redor da cruz"
     },
     {
       "numero": "388",
@@ -7814,7 +8598,9 @@
         "seguir",
         "servir",
         "verdade"
-      ]
+      ],
+      "primeira_estrofe": "mocidade cristã eia avante",
+      "coro": "mocidade cristã eia avante"
     },
     {
       "numero": "389",
@@ -7836,7 +8622,9 @@
         "pelejar",
         "servir",
         "zelo"
-      ]
+      ],
+      "primeira_estrofe": "eia avante mocidade vamos por jesus lutar",
+      "coro": "por jesus com zelo santo"
     },
     {
       "numero": "390",
@@ -7856,7 +8644,9 @@
         "soldado",
         "valor",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "de novo a combater por ti jesus chamados",
+      "coro": "às armas pois e com valor"
     },
     {
       "numero": "391",
@@ -7875,7 +8665,9 @@
         "redenção",
         "salvação",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "mocidade fiel redimida",
+      "coro": "mocidade mocidade escutai o convite do rei"
     },
     {
       "numero": "392",
@@ -7892,7 +8684,9 @@
         "redenção",
         "salvação",
         "vitória"
-      ]
+      ],
+      "primeira_estrofe": "cristo amado sei que na força do mal",
+      "coro": "cristo mestre sei que contigo sou vencedor"
     },
     {
       "numero": "393",
@@ -7910,7 +8704,9 @@
         "graça",
         "lar",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "duas vidas senhor se unem num só ser",
+      "coro": "abençoa senhor esta santa união"
     },
     {
       "numero": "394",
@@ -7929,7 +8725,9 @@
         "perfeição",
         "salvação",
         "união"
-      ]
+      ],
+      "primeira_estrofe": "perfeito amor além do entendimento",
+      "coro": ""
     },
     {
       "numero": "395",
@@ -7949,7 +8747,9 @@
         "pais",
         "pão",
         "sorrir"
-      ]
+      ],
+      "primeira_estrofe": "mui felizes nos correm os dias",
+      "coro": ""
     },
     {
       "numero": "396",
@@ -7966,7 +8766,9 @@
         "proteção",
         "tempo",
         "vida"
-      ]
+      ],
+      "primeira_estrofe": "um ano mais de vida guardou-vos o senhor",
+      "coro": "de coração dai graças ao vosso eterno pai"
     },
     {
       "numero": "397",
@@ -7977,7 +8779,9 @@
         "amor",
         "dia das mães",
         "gratidão"
-      ]
+      ],
+      "primeira_estrofe": "por minha boa mãe e pelo seu amor",
+      "coro": "é grande o bem que na alma tem"
     },
     {
       "numero": "398",
@@ -7996,7 +8800,9 @@
         "proteção",
         "pátria",
         "trevas"
-      ]
+      ],
+      "primeira_estrofe": "pai outra vez cantamos teu louvor",
+      "coro": ""
     },
     {
       "numero": "399",
@@ -8015,7 +8821,9 @@
         "Jesus Cristo",
         "louvor",
         "paz"
-      ]
+      ],
+      "primeira_estrofe": "findado agora o culto ó deus",
+      "coro": ""
     },
     {
       "numero": "400",
@@ -8032,7 +8840,9 @@
         "graça",
         "proteção",
         "redenção"
-      ]
+      ],
+      "primeira_estrofe": "grande deus em paz agora despedimo-nos senhor",
+      "coro": ""
     },
     {
       "numero": "400A",
@@ -8048,48 +8858,56 @@
         "graça",
         "ofertas",
         "reconhecimento"
-      ]
+      ],
+      "primeira_estrofe": "tudo vem de ti senhor",
+      "coro": ""
     },
     {
-      "numero": "401",
-      "titulo": "Amém tríplice",
-      "link": "https://www.semeandovida.org/2022/07/hino-401-amem-triplice.html",
-      "grupo": "Ofertório e Améns",
-      "keywords": [
-        "compromisso",
-        "confiança",
-        "culto",
-        "fé",
-        "louvor"
-      ]
-    },
-    {
-      "numero": "402",
-      "titulo": "Amém quádruplo",
-      "link": "https://www.semeandovida.org/2022/07/hino-402-amem-quadruplo.html",
-      "grupo": "Ofertório e Améns",
-      "keywords": [
-        "compromisso",
-        "confirmação",
-        "culto",
-        "fé",
-        "louvor",
-        "verdade"
-      ]
-    },
-    {
-      "numero": "403",
-      "titulo": "Amém sétuplo",
-      "link": "https://www.semeandovida.org/2022/07/hino-403-amem-setuplo.html",
-      "grupo": "Ofertório e Améns",
-      "keywords": [
-        "compromisso",
-        "culto",
-        "fé",
-        "louvor",
-        "perfeição",
-        "verdade"
-      ]
-    }
-  ]
+  "numero": "401",
+  "titulo": "Amém tríplice",
+  "link": "https://www.semeandovida.org/2022/07/hino-401-amem-triplice.html",
+  "grupo": "Ofertório e Améns",
+  "keywords": [
+    "compromisso",
+    "confiança",
+    "culto",
+    "fé",
+    "louvor"
+  ],
+  "primeira_estrofe": "",
+  "coro": ""
+},
+{
+  "numero": "402",
+  "titulo": "Amém quádruplo",
+  "link": "https://www.semeandovida.org/2022/07/hino-402-amem-quadruplo.html",
+  "grupo": "Ofertório e Améns",
+  "keywords": [
+    "compromisso",
+    "confirmação",
+    "culto",
+    "fé",
+    "louvor",
+    "verdade"
+  ],
+  "primeira_estrofe": "",
+  "coro": ""
+},
+{
+  "numero": "403",
+  "titulo": "Amém sétuplo",
+  "link": "https://www.semeandovida.org/2022/07/hino-403-amem-setuplo.html",
+  "grupo": "Ofertório e Améns",
+  "keywords": [
+    "compromisso",
+    "culto",
+    "fé",
+    "louvor",
+    "perfeição",
+    "verdade"
+  ],
+  "primeira_estrofe": "",
+  "coro": ""
+}
+]
 }
